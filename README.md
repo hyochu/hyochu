@@ -1,6 +1,6 @@
 <div align=center>
   <h3>🌱 Tech Stack 🌱</h3>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=Salesforce&logoColor=#00A1E0"/>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=Salesforce&logoColor=white"/>
 <div>
 
 <!--
