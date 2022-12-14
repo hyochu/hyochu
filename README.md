@@ -1,9 +1,10 @@
 <div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hyoju%20render&fontSize=90" />
   <h3>🌱 Tech Stack 🌱</h3>
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=Salesforce&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   
-  <h3>:computer: Language :computer:</h3>
+  <h3>:computer: ?_? :computer:</h3>
 <div>
 
 <!--
