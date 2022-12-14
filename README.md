@@ -1,6 +1,10 @@
 <div align=center>
   <h3>🌱 Tech Stack 🌱</h3>
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=Salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=Salesforce&logoColor=white"/>
+  
+  <h3>:computer: Language :computer:</h3>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyochu&langs_count=8)](https://github.com/hyochu/github-readme-stats)
 <div>
 
 <!--
