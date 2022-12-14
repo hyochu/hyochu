@@ -1,10 +1,9 @@
 <div align=center>
   <h3>🌱 Tech Stack 🌱</h3>
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=Salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=Salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   
   <h3>:computer: Language :computer:</h3>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyochu)](https://github.com/anuraghazra/github-readme-stats)
 <div>
 
 <!--
