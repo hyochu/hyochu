@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=Salesforce&logoColor=white"/>
   
   <h3>:computer: Language :computer:</h3>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyochu&langs_count=8)](https://github.com/hyochu/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyochu)](https://github.com/anuraghazra/github-readme-stats)
 <div>
 
 <!--
