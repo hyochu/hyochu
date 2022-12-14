@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align=center>
+  <h3>🌱 Tech Stack 🌱</h3>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=Salesforce&logoColor=#00A1E0"/>
+<div>
 
 <!--
 **hyochu/hyochu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
