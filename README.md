@@ -1,11 +1,8 @@
-
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=Slice&color=6FC7E1&height=300&section=header&fontSize=50" />
-  <div align = left>
-    <h5>🌿Linked In : 🌿</h5>
+    <h4>🌿BOJ🌿</h4>
+    <p><a href="https://solved.ac/asasas0111"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=asasas0111" alt="Solved.ac Profile"></a></p>
     
-    
-  </div>
   <h4>🌱 Tech Stack 🌱</h4>
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=Salesforce&logoColor=white"/>
   <!--<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -37,9 +34,12 @@
 </picture>
 <img src="https://capsule-render.vercel.app/api?type=Slice&color=6FC7E1&height=300&section=footer&fontSize=50" />
 </div>
+
+
+
 <!--
 **hyochu/hyochu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asasas0111)](https://solved.ac/asasas0111/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
